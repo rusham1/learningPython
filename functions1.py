@@ -16,4 +16,4 @@ greeting(name, age, color)
 # 4. Change the 'You are xx!' text to say 'you will be xx+1 years old next birthday 
 #  adding 1 to the age
 # 5. Capitalize first letter of the 'name', and rest are small caps 
-# 6. Favorite color should be in lowercase 
+# 6. Favorite color should be in lowercase
